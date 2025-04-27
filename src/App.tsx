@@ -4,7 +4,8 @@ function App() {
 
   return (
     <div className="app">
-      Hola mundo
+      <img src='/src/assets/icon.png' width={100} height={100} alt='Logo del sitio' />
+      <p>Landing Page en proceso de construcción</p>
     </div>
   )
 }
